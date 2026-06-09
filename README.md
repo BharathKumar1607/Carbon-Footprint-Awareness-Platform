@@ -1,4 +1,3 @@
-# EcoTrack AI
 # EcoTrack AI 🌱
 
 A Carbon Footprint Awareness Platform designed to help individuals understand, track, and reduce their environmental impact through personalized insights and sustainable lifestyle recommendations.
@@ -72,6 +71,11 @@ https://ecotrack-ai-934589913277.us-west1.run.app/
 ## GitHub Repository
 
 https://github.com/BharathKumar1607/Carbon-Footprint-Awareness-Platform
+
+## Project Journey
+
+LinkedIn Post:
+https://www.linkedin.com/posts/bharath-kumar-5b417a308_promptwars2026-googleaistudio-googlefordevelopers-share-7470090348971589632-aKl7/
 
 ## Project Structure
 
